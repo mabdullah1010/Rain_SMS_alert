@@ -8,6 +8,7 @@ parameters = {
     "appid": "318bc5e4f7e480e162084c81b244be74",
     "cnt": "4"
 }
+
 account_sid = os.environ["SID"]
 auth_token = os.environ["AUTH"]
 
