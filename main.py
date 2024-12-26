@@ -2,6 +2,7 @@ import requests
 from twilio.rest import Client
 import os
 
+
 parameters = {
     "lat": "YOUR LATITUDE COORDINATES",
     "lon": "YOUR LONGITUDE COORDINATES",
