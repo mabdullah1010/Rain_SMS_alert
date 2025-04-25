@@ -6,7 +6,7 @@ import os
 parameters = {
     "lat": "YOUR LATITUDE COORDINATES",
     "lon": "YOUR LONGITUDE COORDINATES",
-    "appid": "318bc5e4f7e480e162084c81b244be74",
+    "appid": "API KEY",
     "cnt": "4"
 }
 
